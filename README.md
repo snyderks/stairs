@@ -1,6 +1,6 @@
 # Stairs
 
-![Stairs icon](./stairs.svg)
+<img src="./stairs.svg" height="100">
 
 Stairs is a utility to randomly select items from a weighted array quickly and without high memory usage by creating continuous distribution functions to select from.
 
